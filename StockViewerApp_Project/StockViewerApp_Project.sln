@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockViewerApp_Project", "StockViewerApp_Project.csproj", "{7D565F01-601B-49DD-9C6E-ACC03835D353}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D565F01-601B-49DD-9C6E-ACC03835D353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D565F01-601B-49DD-9C6E-ACC03835D353}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D565F01-601B-49DD-9C6E-ACC03835D353}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D565F01-601B-49DD-9C6E-ACC03835D353}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5187D0B1-0C8C-4F48-AAE8-2A1BCD9EF778}
+	EndGlobalSection
+EndGlobal
